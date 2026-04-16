@@ -33,7 +33,6 @@ Essa funcionalidade torna a aplicação mais interativa e aproxima o sistema de 
 - MySQL  
 - HTML  
 - CSS  
-- JavaScript  
 
 ---
 
