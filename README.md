@@ -27,7 +27,7 @@ Essa funcionalidade torna a aplicação mais interativa e aproxima o sistema de 
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
 - PHP  
 - MySQL  
