@@ -2,7 +2,7 @@
 
 ## Sistema de Imobiliária
 
-Este projeto foi desenvolvido como trabalho final do curso de Analise e Desenvolvimento de Sistemas, com o objetivo de aplicar na prática os conhecimentos adquiridos ao longo da formação.
+Este projeto foi desenvolvido como trabalho final do curso de Tecnologia em Análise e Desenvolvimento de Sistemas, com o objetivo de aplicar na prática os conhecimentos adquiridos ao longo da formação.
 
 Trata-se de um sistema web para gerenciamento de uma imobiliária, permitindo o controle de usuários e imóveis de forma dinâmica e funcional.
 
