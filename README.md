@@ -55,7 +55,7 @@ Durante o desenvolvimento deste projeto, foi possível aprofundar conhecimentos 
 
 ---
 
-## Como executar o projeto
+## Como executar o Projeto
 
 1. Clone este repositório: https://github.com/amandagrsl/Projeto-Final
    
